@@ -1,8 +1,5 @@
-# hello-world
-Just a little repository
+# Hello world
+Just a little repository for programming, such as Data Structure or basic algorithm.
 
-Hello everyone!
-This time, I have made a change in the Data Structure design for the HashTable and Heapsort and DPS.
-Now, I will learn some skill of Javascript and Python and Html/css or Code ,Graphic theory and Math!
-That's all today's change and learning plan. 
+I will learn Javascript and Python for fullstack or learn other languages like Java, Go for backend. Righ now, I'd like to be a data mining algorithm developer in recommdender system！
 
